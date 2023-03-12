@@ -24,7 +24,7 @@
         android:layout_marginTop="48dp"
         android:ems="10"
         android:hint="@string/ingresa_un_mensaje_para_responder"
-        android:inputType="textMultiLine|textPersonName"
+        android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
