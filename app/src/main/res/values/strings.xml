@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverTelefonia</string>
+    <string name="ingresa_un_mensaje_para_responder">Ingresa un mensaje para responder</string>
+</resources>
